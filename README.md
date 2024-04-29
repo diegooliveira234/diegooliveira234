@@ -8,6 +8,7 @@
   
   <a href="https://github.com/diegooliveira234">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegooliveira234&theme=dracula&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooliveira234&size_weight=0.5&count_weight=0.5&theme=dracula&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
  
